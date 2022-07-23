@@ -10,10 +10,16 @@ import {
     DrawerContent,
     DrawerCloseButton,
   } from '@chakra-ui/react'
+import { useNavigate } from "react-router-dom";
 
 
 export default function Navbar(){
   
+  const navigate=useNavigate()
+
+  function Blog(){
+    navigate("/blog")
+  }
     return(
         <div>
          <Box className="nav">
@@ -27,9 +33,9 @@ export default function Navbar(){
 
 
 
-                <div className="nav21">    <button className="a1">Blog</button> </div>
+                <div className="nav21">    <button className="a1" onClick={Blog}>Blog</button> </div>
                 <div className="nav21">  <button className="a1">Register As A Professional</button></div>
-                {/* <div className="nav21"> <a className="a1" href="/">My Bookings</a></div> */}
+               
                 <div className="nav21"><button >{<DrawerExample />}</button></div>
           
          
@@ -66,7 +72,8 @@ export default function Navbar(){
             <DrawerHeader>Create your account</DrawerHeader>
   
             <DrawerBody>
-              <Input placeholder='Type here...' />
+              <Input placeholder='Enter Your Number..' />
+             <Button  style={{backgroundColor:"black",color:"white"}}> Continue</Button>
             </DrawerBody>
   
             <DrawerFooter>
@@ -80,3 +87,6 @@ export default function Navbar(){
       </>
     )
   }
+
+
+  

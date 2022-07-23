@@ -1,9 +1,16 @@
 import { Box,Image,Input,Button  } from "@chakra-ui/react";
-import Citypage from "./Citypage";
+import { Link, useNavigate } from "react-router-dom";
+// import Citypage from "./Citypage";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
 
 export default function Home(){
+const navigate=useNavigate();
+
+function handleCity(){
+    navigate("/city")
+}
+
     return(
         <div>
             
@@ -43,7 +50,8 @@ export default function Home(){
                         <option value="">Hyderabad</option>
                         <option value="">Kolkata</option>
                         <option value="">Munbai</option>
-                        <option value="">Pune</option>
+                        <option value="" >Pune</option>
+                     
                         <option value="">Nagpur</option>
                         <option value="">Ludhiana</option>
                         <option value="">Visakhapatnam</option>
@@ -77,6 +85,8 @@ export default function Home(){
                         <option value="">Austin</option>
                      
                     </select>
+                    <Button onClick={handleCity}>
+                        </Button>
                     </Box>
                 </Box>
 
@@ -155,9 +165,7 @@ export default function Home(){
 
 
 
-            <Box>
-                <Citypage/>
-            </Box>
+           
         </div>
     )
 }
