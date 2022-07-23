@@ -1,4 +1,5 @@
 import { Box,Image,Input,Button  } from "@chakra-ui/react";
+import Citypage from "./Citypage";
 import Footer from "./Footer";
 import Navbar from "./Navbar";
 
@@ -150,6 +151,12 @@ export default function Home(){
 
             <Box>
             <Footer/>
+            </Box>
+
+
+
+            <Box>
+                <Citypage/>
             </Box>
         </div>
     )
