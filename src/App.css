@@ -481,6 +481,14 @@ color: black;
   text-align: center;
   margin-top: 50px;
 }
+.h1j{
+  font-size: 33px;
+  font-weight: 700;
+  font-family: axiforma-regular,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+color: black;
+  margin-left: 100px;
+  margin-top: 50px;
+}
 .md1{
   margin-left: 180px;
   margin-top: -20px;
@@ -508,4 +516,105 @@ color: black;
 .foo112{
   width: 100%;
   margin-top: -100px;
+}
+.but1{
+  background-color: white;
+  border:  1px solid white;
+}
+.na2{
+  margin: auto;
+  height: 120px;
+}
+.na1{
+  margin-top: 20px;
+  display: flex;
+  width: 85%;
+  justify-content: space-around;
+  margin: auto;
+}
+.A1{
+  font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.line12{
+  margin-top: 15px;
+  margin-bottom: 15px;
+
+}
+.ri23{
+  margin-left: 80px;
+  margin-top: -15px;
+
+}
+.A1:hover{
+  color: pink;
+}
+
+.mySwiper1{
+  width: 85%;
+}
+.line6{
+  border: 2px solid #000;
+  width: 85%;
+  margin: auto;
+  margin-bottom: 20px;
+}
+.bea1{
+  display: flex;
+  width: 85%;
+  margin: auto;
+}
+.bea2{
+  width: 70%;
+  display: flex;
+}
+.bea3{
+  width: 30%;
+  /* border: 1px solid #727272; */
+  height: 300px;
+}
+.bea21{
+  width: 45%;
+  gap: 10px;
+  margin-left: 15px;
+}
+.ebeh1{
+  font-size: 28px;
+  font-weight: 700;
+  font-family: axiforma-regular,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+color: black;
+margin-top: 30px;
+margin-bottom: 10px;
+}
+.ebehp1{
+  font-size: 15px;
+ 
+  font-family: axiforma-regular,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+color: black;
+}
+.ebehp2{
+  font-size: 13px;
+ 
+  font-family: axiforma-regular,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+color: rgb(189, 54, 76);
+}
+.ebe22{
+  width: 90px;
+  height: 80px;
+}
+.bea211{
+  display: flex;
+  margin-left: 20px;
+}
+.aa{
+  margin-left: 15px;
+  margin-top: 20px;
+}
+.li1{
+  border: 1px solid #727272;
+  width: 90%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

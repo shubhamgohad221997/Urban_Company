@@ -5,7 +5,7 @@ import Navbar from './Navbar'
 
 
 import { Drawer1, Drawer10, Drawer11, Drawer2, Drawer3, Drawer4, Drawer5, Drawer6, Drawer7, Drawer8, Drawer9 } from '../css/Drawer'
-import Slideshow, { Slideshow1, Slideshow2 } from '../css/Slideshow'
+import  { Slideshow1, Slideshow2 } from '../css/Slideshow'
 import Footer from './Footer'
 
 

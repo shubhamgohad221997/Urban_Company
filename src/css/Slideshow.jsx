@@ -68,4 +68,34 @@ function Slideshow2() {
   );
 }
 
-export{Slideshow2,Slideshow1}
+
+
+function Slideshow3() {
+  return (
+    <>
+      <Swiper
+        slidesPerView={4}
+        spaceBetween={30}
+        pagination={{
+          clickable: true,
+        }}
+        modules={[Pagination]}
+        className="mySwiper1"
+      >
+        <SwiperSlide><Box className="swb"><Image className="sm1" src="https://de927adv5b23k.cloudfront.net/wp-content/uploads/2021/06/22114135/Preeti-Blog-feature-512x303.jpg"></Image><p className='ipg1'>HUMANS OF URBAN COMPANY</p></Box> </SwiperSlide>
+        <SwiperSlide><Box className="swb"><Image className="sm1" src="https://de927adv5b23k.cloudfront.net/wp-content/uploads/2022/05/25130744/health-insurance-450x237.jpeg"></Image><p className='ipg1'>INSIDE URBAN COMPNY</p></Box></SwiperSlide>
+        <SwiperSlide><Box className="swb"><Image className="sm1" src="https://de927adv5b23k.cloudfront.net/wp-content/uploads/2022/03/16162100/psop-image-370x280.jpeg"></Image><p className='ipg1'>COMPANY UPDATES</p></Box></SwiperSlide>
+       
+       
+        <SwiperSlide><Box className="swb"><Image className="sm1" src="https://de927adv5b23k.cloudfront.net/wp-content/uploads/2022/02/03155846/featured_TUG-370x280.jpg"></Image><p className='ipg1'>TUG VEDIO</p></Box></SwiperSlide>
+        <SwiperSlide><Box className="swb"><Image className="sm1" src="https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep,w_532/t_high_res_category/images/growth/luminosity/1632490257439-ef28d2.jpeg"></Image><p className='ipg1'>COMPANY UPDATES</p></Box></SwiperSlide>
+        <SwiperSlide><Box className="swb"><Image className="sm1" src="https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep,w_532/t_high_res_category/images/growth/luminosity/1632490742113-7c2635.jpeg"></Image><p className='ipg1'>TUG VEDIOS</p></Box></SwiperSlide>
+        {/* <SwiperSlide><Box className="swb"><Image className="slimg" src=""></Image></Box></SwiperSlide>
+        <SwiperSlide><Box className="swb"><Image className="slimg" src=""></Image></Box></SwiperSlide>
+        <SwiperSlide><Box className="swb"><Image className="slimg" src=""></Image></Box></SwiperSlide> */}
+      </Swiper>
+    </>
+  );
+}
+
+export{Slideshow2,Slideshow1,Slideshow3}
