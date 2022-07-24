@@ -307,21 +307,21 @@ import {
 
 
               <Box className="box1">
-                <Image className="bi1" src="https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/t_medium_res_category/categories/category_v2/category_ef2b79d0.png"></Image>
-                <p className="pi1" >Air Conditioner<MdArrowForwardIos className="md1"/></p>
+                <Image className="bi1" src="https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/t_medium_res_category/categories/category_v2/category_bf5acc80.png"></Image>
+                <p className="pi1" >Refrigerator<MdArrowForwardIos className="md1"/></p>
                 
               </Box>
 
               <Box className="box1">
-                <Image className="bi1" src="https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/t_medium_res_category/categories/category_v2/category_c008bfc0.png"></Image>
-                <p className="pi1">Microwave   <MdArrowForwardIos className="md1" /></p>
+                <Image className="bi1" src="https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/t_medium_res_category/categories/category_v2/category_b78221c0.png"></Image>
+                <p className="pi1">Washing Machine   <MdArrowForwardIos className="md1" /></p>
               
               </Box>
 
 
               <Box className="box1">
-                <Image className="bi1" src="https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/t_medium_res_category/categories/category_v2/category_ef2b79d0.png"></Image>
-                <p className="pi1" >Air Conditioner<MdArrowForwardIos className="md1"/></p>
+                <Image className="bi1" src="https://res.cloudinary.com/urbanclap/image/upload/q_auto,f_auto,fl_progressive:steep/t_medium_res_category/categories/category_v2/category_bbb8c690.png"></Image>
+                <p className="pi1" >Water Purifier<MdArrowForwardIos className="md1"/></p>
                 
               </Box>
 

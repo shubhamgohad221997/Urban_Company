@@ -3,6 +3,8 @@ import React from 'react'
 import { Dbutton1,Dbutton2,Dbutton3,Dbutton4 } from '../css/Dbutton'
 import  { Slideshow3 } from '../css/Slideshow'
 
+import Footer from './Footer'
+
 
 const BlogpPage = () => {
   return (
@@ -398,7 +400,7 @@ All You Need to Know About Enamel Painting</p>
 
 
 
-
+<Box><Footer/></Box>
 
 
 
