@@ -34,7 +34,7 @@ Above stack percentage is calculated by GitHub it may be different when we updat
 # Footer Part of our Website:![ur1](https://user-images.githubusercontent.com/101570475/199773883-de27c552-75e4-4099-bedc-489ae9041606.png)
 
 
-# Users can Search different Category![Screenshot (763)](https://user-images.githubusercontent.com/101010104/192707482-c29627a8-2342-4813-a03d-f610ea2274e9.png)
+
 
  # Netlify :
 https://inquisitive-cupcake-904272.netlify.app/
