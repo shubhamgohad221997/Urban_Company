@@ -10,22 +10,26 @@ Hello Everyone, I am building a clone of Urban_Company
 # About Project | Urban_Company
 
 
-Shop designer fashion. Fast shipping & easy returns. Trending & sought-after styles. Enjoy access to limited-release streetwear collections and rare sneaker drops. More Than 500 Designers. Fast Worldwide Shipping. Exclusive Collections. Secure & Easy Checkout.
-
+Urban Company is your one-stop destination for expert local services. Get dozens of trusted professionals near you to take care of all your home and beauty product provider.
 # Tech Stacks Used for Cloning Website By Me:
-HTML :79.1%
+HTML :2.1%
 
-JavaScript : 21.9%
+JavaScript : 85.9%
+
+CSS : 12.5%
 
 Above stack percentage is calculated by GitHub it may be different when we updated something.
 
 # Some Glimpse and Screenshots of our Website:
 
-# HomePage of our Website :![Screenshot (759)](https://user-images.githubusercontent.com/101010104/192706908-7d8be9ae-8300-4abf-b967-7ddf22971d31.png)
+# HomePage of our Website :![Screenshot 2022-09-22 200912](https://user-images.githubusercontent.com/101570475/199772031-fffc3bd0-a023-474d-b83c-84c8e9b27bae.png)
 
-# Collections:![Screenshot (760)](https://user-images.githubusercontent.com/101010104/192707282-4a17ca11-612f-466d-bffa-94fdb0a1f7df.png)
 
-# Mens and Womens Wear: ![Screenshot (761)](https://user-images.githubusercontent.com/101010104/192707344-7a6326b3-a0cc-4d3d-8609-6106d1fe725b.png)
+# Blog_Page:![Screenshot 2022-09-22 201123](https://user-images.githubusercontent.com/101570475/199772866-7b03af4f-a700-410e-bc56-8bb5c9463fb5.png)
+
+
+# City_Page:![Screenshot 2022-09-22 201038](https://user-images.githubusercontent.com/101570475/199773043-0ab93db5-c6c4-4454-8bad-77087f45391b.png)
+
 
 # Footer Part of our Website:![Screenshot (762)](https://user-images.githubusercontent.com/101010104/192707407-2928cf5a-65a6-4ca3-a329-5b4661945f0c.png)
 
@@ -34,5 +38,3 @@ Above stack percentage is calculated by GitHub it may be different when we updat
  # Netlify :
  link:https://adorable-bienenstitch-4d5396.netlify.app
 
- # Demo video link:
- https://drive.google.com/file/d/1XHSMM7K67qDWfxz3wNgxtWbCpBbiIYla/view?usp=sharing
